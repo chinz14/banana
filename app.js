@@ -3,7 +3,7 @@ var translate=document.querySelector("#click");
 var txtinput = document.querySelector("#txt-input");
 var outputdiv = document.querySelector("#output");
 
-serverurl="		https://api.funtranslations.com/translate/braille.json";
+serverurl="https://api.funtranslations.com/translate/braille.json";
 
 
 function getTranslationurl(text){
